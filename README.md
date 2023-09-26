@@ -1,2 +1,2 @@
-# alx-backend-javascript
-Specializing in backend JavaScript
+# ALX Backend JavaScript
+Specializing in backend JavaScript.
